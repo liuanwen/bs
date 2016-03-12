@@ -1,0 +1,26 @@
+.DS_Store
+.project
+.buildpath
+.settings
+.class
+.idea
+*.iml
+*.tgz
+checkbill.properties
+log/
+data/
+javaTmpFiles/
+lib/
+*/target
+target
+**/localtest/
+# Client Project
+jframeworkerService/src/main/webapp/.coffee
+jframeworkerService/src/main/webapp/.nobone
+jframeworkerService/src/main/webapp/.nokit
+jframeworkerService/src/main/webapp/assets
+jframeworkerService/src/main/webapp/node_modules
+jframeworkerService/src/main/webapp/dist
+jframeworkerService/src/main/webapp/*sublime*
+*/target/**
+
